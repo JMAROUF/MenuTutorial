@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="about us " android:id="@+id/firstItem" app:showAsAction="always" />
+
+    <item android:title="subMenu1 ">
+        <item android:title="sub title 1 "></item>
+        <item android:title="sub title 2 "></item>
+    </item>
+    <item android:title="aitem 3 " android:id="@+id/item3"  />
+    <group android:title="subMenu2 ">
+        <item android:title="sub title 1 "></item>
+        <item android:title="sub title 2 "></item>
+    </group>
+
+
+
+</menu>
+
+
